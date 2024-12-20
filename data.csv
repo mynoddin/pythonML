@@ -1,0 +1,8 @@
+Name,Age,Salary,Department,Status 
+Alice,25,50000,HR,1
+Bob,30,60000,Finance,2
+Charlie,35,70000,,2
+David,40,80000,Marketing,
+Eve,22,45000,Admin,3
+John,,234234,IT,3
+Eve,22,45000,Admin,3
